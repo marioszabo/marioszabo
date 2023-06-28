@@ -7,7 +7,7 @@
 
 
 ---
- Passionate about helping people get into cloud and sharing my learnings in cloud, DevOps and now DevRel. 
+ Passionate about helping people get into cloud and sharing my learnings in cloud, DevOps and Networking.
 
 ---
 
